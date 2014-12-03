@@ -1,0 +1,5 @@
+c:\users\makar\documents\visual studio 2013\Projects\Dungeon Crawl\Dungeon Crawl\obj\Debug\Dungeon Crawl.csprojResolveAssemblyReference.cache
+C:\Users\Makar\Documents\Visual Studio 2013\Projects\Dungeon Crawl\Dungeon Crawl\bin\Debug\Dungeon Crawl.exe
+C:\Users\Makar\Documents\Visual Studio 2013\Projects\Dungeon Crawl\Dungeon Crawl\bin\Debug\Dungeon Crawl.pdb
+C:\Users\Makar\Documents\Visual Studio 2013\Projects\Dungeon Crawl\Dungeon Crawl\obj\Debug\Dungeon Crawl.exe
+C:\Users\Makar\Documents\Visual Studio 2013\Projects\Dungeon Crawl\Dungeon Crawl\obj\Debug\Dungeon Crawl.pdb
